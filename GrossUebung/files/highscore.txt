@@ -1,0 +1,3 @@
+Game finished after 21 seconds. Score: Ben: (0), Mia: (8)
+Game finished after 21 seconds. Score: Ben: (5), Mia: (3)
+Game finished after 38 seconds. Score: Ben: (4), Mia: (3)
